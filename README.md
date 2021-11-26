@@ -1,10 +1,10 @@
-# PinkLips Lipstick Shop(React App)
+# Lipstick Shop(React App)
 
 This project is available at -
 https://pink-lips-16530.web.app
 
 
-### `Feature of PinkLips`
+### `Features of LipstickShop`
 
 * Any one can login from website with Email and Password
 
